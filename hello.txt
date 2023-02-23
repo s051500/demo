@@ -1,4 +1,4 @@
 第一次内容
-git remote remove <远程库名>  # 删除远程库
+git remoate remove <远程库名>  # 删除远程库
 ad1
 
